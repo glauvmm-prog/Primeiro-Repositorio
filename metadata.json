@@ -1,0 +1,6 @@
+{
+  "name": "CRM de Clientes",
+  "description": "Sistema de CRM completo para cadastro de clientes e disparo de mensagens personalizadas por e-mail e WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
